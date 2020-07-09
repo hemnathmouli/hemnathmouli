@@ -8,9 +8,9 @@ I'm a Full-Stack developer who is passionate about building WordPress plugins an
 - Snack Composer (A Visual composer for wordpress) 🚀 *coming soon* 🚀
 
 ## Where to find me
-- [Twitter](https://twitter.com/hemnathmouli) 🐤
-- [Instagram](https://instagram.com/hemmycodes) 📷
-- [LinkedIn](https://linkedin.com/in/hemnathmouli) 💼👨‍💻
+- <a href="https://twitter.com/hemnathmouli" target="_blank">Twitter</a> 🐤
+- <a href="https://instagram.com/hemmycodes" target="_blank">Instagram</a> 📷
+- <a href="https://linkedin.com/in/hemnathmouli" target="_blank">LinkedIn</a> 💼👨‍💻
 - Website *coming soon*
 
 <!--
