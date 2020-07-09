@@ -10,7 +10,7 @@ I'm a Full-Stack developer who is passionate about building WordPress plugins an
 ## Where to find me
 - [Twitter](https://twitter.com/hemnathmouli) 🐤
 - [Instagram](https://instagram.com/hemmycodes) 📷
-- [LinkedIn](https://in.linkedin.com/hemnathmouli) 💼👨‍💻
+- [LinkedIn](https://linkedin.com/in/hemnathmouli) 💼👨‍💻
 - Website *coming soon*
 
 <!--
