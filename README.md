@@ -1,7 +1,7 @@
 # 👋 Hi, I am Hemnath
 
 ## About Me
-I'm a Full-Stack developer who is passionate about building WordPress plugins and themes. You can find me building React and Flutter projects sometimes.
+I am a Full-Stack developer who loves to work with Javascript and PHP applications. You can find me building Tensorflow.JS and Flutter projects sometimes.
 
 ### 🔭 I’m currently working on
 - [Wc Wallet](https://github.com/hemnathmouli/WC-Wallet)
