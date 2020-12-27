@@ -10,6 +10,7 @@ I am a Full-Stack developer who loves to work with Javascript and PHP applicatio
 ### 🌱 I’m currently learning
 - Tensorflow.JS by Shanqing Cai, Stan Bileschi, Eric Nielsen
 - Designing Interfaces by Jenifer Tidwell
+- The Lean Start Up by Eric Ries
 
 ### 📫 How to reach me
 - [Twitter](https://twitter.com/hemnathmouli) 🐤
