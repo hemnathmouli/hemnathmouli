@@ -8,9 +8,8 @@ I am a Full-Stack developer who loves to work with Javascript and PHP applicatio
 - [Calendr.cc](https://calendr.cc)
 
 ### 🌱 I’m currently learning
-- Tensorflow.JS by Shanqing Cai, Stan Bileschi, Eric Nielsen
-- Designing Interfaces by Jenifer Tidwell
-- The Lean Start Up by Eric Ries
+- Steve Jobs by Walter Isaacson
+- Atomic Habits by James Clear
 
 ### 📫 How to reach me
 - [Twitter](https://twitter.com/hemnathmouli) 🐤
