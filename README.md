@@ -1,15 +1,15 @@
-# 👋 Hi, I am Hemnath
+# 👋 Hi, I am Hemmy
 
 ## About Me
 I am a Full-Stack developer who loves to work with Javascript and PHP applications. You can find me building Tensorflow.JS and Flutter projects sometimes.
 
 ### 🔭 I’m currently working on
-- [Wc Wallet](https://github.com/hemnathmouli/WC-Wallet)
+- Soft wake - Have your LED RGB strip wake you up like a sunrise. An IoT and Web based project to replace sound with light for alarms. [mini_project]
 - [Calendr.cc](https://calendr.cc)
 
 ### 🌱 I’m currently learning
-- Steve Jobs by Walter Isaacson
-- Atomic Habits by James Clear
+- The Craft of Research - Wayne Booth, Gregory Colomb, Joseph Willams
+- Benjamin Franklin: An American Life: Isaacson, Walter
 
 ### 📫 How to reach me
 - [Twitter](https://twitter.com/hemnathmouli) 🐤
